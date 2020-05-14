@@ -72,5 +72,5 @@ rootProject.ext.PROJ_REPO = "maven"
 
 
 
-//apply from: "https://raw.githubusercontent.com/lwjfork/scriptlib/master/gradle/bintray.gradle"
+apply from: "https://raw.githubusercontent.com/lwjfork/scriptlib/master/gradle/bintray.gradle"
 
