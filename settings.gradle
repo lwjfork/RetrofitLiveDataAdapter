@@ -1,0 +1,3 @@
+rootProject.name='RetrofitLiveDataAdapter'
+include ':app'
+include ':retrofit-livedata-adapter'
